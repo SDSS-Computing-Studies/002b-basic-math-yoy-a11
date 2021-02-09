@@ -7,4 +7,6 @@
 
 x = 10
 y = 4
-answer = 
+answer = x+y
+print(answer)
+
